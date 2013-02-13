@@ -88,6 +88,7 @@ function Player:PS_Save()
 end
 
 function Player:PS_LoadData()
+	if not self then return end
 	self.PS_Points = 0
 	self.PS_Items = {}
 	
