@@ -8,3 +8,5 @@ See http://pointshop.burt0n.net for more information.
 Feel free to send a pull request.
 
 ![PointShop](http://puu.sh/1zkWC)
+
+(testing a commit hook)
